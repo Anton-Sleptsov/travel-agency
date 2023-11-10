@@ -1,0 +1,28 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  
+}
+
+.text{
+  display: flex;
+}
+
+.form-container{
+  background-color: rgba(241, 241, 241, 1);
+  display: flex;
+  border-radius: 20px;
+}
+input{
+  border: 0px;
+  border-radius: 10px;
+}
+
+button{
+  border-radius: 10px;
+  background-color: rgba(61, 59, 255, 1);
+  color: white;
+  cursor: pointer;
+}
